@@ -9,9 +9,9 @@
             string username = "superuser";
             string password = "superuser123";
 
-            Console.WriteLine("Enter username: ");
+            Console.Write("Enter username: ");
             string usernameinput = Console.ReadLine();
-            Console.WriteLine("Enter password: ");
+            Console.Write("Enter password: ");
             string passwordinput = Console.ReadLine();
 
 
@@ -28,3 +28,4 @@
 
         }
     }
+}
